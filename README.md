@@ -32,7 +32,3 @@ Open another terminal and launch the teleop script:
 $ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```  
 
-## References  
-1. [Basic Navigation Tuning Guide](http://wiki.ros.org/navigation/Tutorials/Navigation%20Tuning%20Guide): ROS wiki  
-2. [base_local_planner does not follow the global plan accurately](https://answers.ros.org/question/209287/base_local_planner-does-not-follow-the-global-plan-accurately/): The Construct  
-3. [Confusion about TF frames used #300](https://github.com/googlecartographer/cartographer_ros/issues/300): GitHub > googlecartographer/cartographer_ros
